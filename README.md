@@ -63,19 +63,26 @@
 </div>
 
 ###
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sagarxcode&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=default&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-<br>
-<div align="center">  
-  <img src="https://github-readme-stats.vercel.app/api?username=sagarxcode&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=default&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <h2>📊 GitHub Stats:</h2>
+
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagarxcode&theme=prussian&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+  </p>
+  
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=sagarxcode&theme=prussian&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
+  </p>
+
+  <p>
+    <img src="https://nirzak-streak-stats.vercel.app/?user=sagarxcode&theme=prussian&hide_border=false" alt="GitHub Streak" />
+  </p>
 </div>
 
-###
+##
 
 <div align="center">
   <img src="https://i.postimg.cc/9069MN4W/Find-Share-on-GIPHY.gif" height="200" alt="Night Coding">
 </div>
 
-###
+##
