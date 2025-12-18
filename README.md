@@ -24,13 +24,12 @@
 
 <p align="left">I'm a Computer Science student passionate about building mobile applications that combine functionality with user-friendly design. My tech journey is fueled by curiosity and a constant drive to create apps that truly make a difference.<br><br>💡 Strong foundation in Java<br>📱 Passionate about mobile app development<br>🔍 Exploring backend development & problem-solving with Java</br>🌍 Active in workshops, hackathons, and developer communities to keep up with the latest in app development</p>
 
-##
 
 <h2 align="center">🚀 Long-Term Vision</h2>
 
 <p align="left">To establish myself as a versatile App Developer, collaborating with like-minded professionals and contributing to projects that positively impact people’s lives.<br>
 
-##
+
 
 <h2 align="center">Technologies that I use</h2>
 
@@ -48,17 +47,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="40" alt="java logo"  />
 </div>
 
-### 
-
-<h2 align="center">Social Handle</h2>
-
-###
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/sagar-maurya-8a1868233/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="60" height="40" alt="linkedin logo"  />
-  </a>
-</div>
 
 ###
 <div align="center">
