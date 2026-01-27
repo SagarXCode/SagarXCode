@@ -6,7 +6,7 @@
 
 <h1 align="center">Hey 👋 What's up?</h1>
 
-<p align="left">My name is Sagar Maurya and I'm a Computer Science student, from Uttar Pradesh, India</p>
+<p align="center">My name is Sagar Maurya and I'm a Computer Science student, from Uttar Pradesh, India</p>
 
 ###
 
@@ -18,16 +18,9 @@
 
 ###
 
-<h2 align="center">💻 What I Do?</h2>
-
-###
-
-<p align="left">I'm a Computer Science student passionate about building mobile applications that combine functionality with user-friendly design. My tech journey is fueled by curiosity and a constant drive to create apps that truly make a difference.<br><br>💡 Strong foundation in Java<br>📱 Passionate about mobile app development<br>🔍 Exploring backend development & problem-solving with Java</br>🌍 Active in workshops, hackathons, and developer communities to keep up with the latest in app development</p>
-
-
 <h2 align="center">🚀 Long-Term Vision</h2>
 
-<p align="left">To establish myself as a versatile App Developer, collaborating with like-minded professionals and contributing to projects that positively impact people’s lives.<br>
+<p align="center">To establish myself as a versatile App Developer, collaborating with like-minded professionals and contributing to projects that positively impact people’s lives.<br>
 
 
 
