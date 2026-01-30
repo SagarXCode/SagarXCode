@@ -49,10 +49,16 @@
 
 ###
 
+
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=SagarXCode&show_icons=true&theme=white"/>
+</p>
+
+
 ##
 
-<div align="center">
+<p align="center">
   <img src="https://i.postimg.cc/9069MN4W/Find-Share-on-GIPHY.gif" height="200" alt="Night Coding">
-</div>
+</p>
 
 ##
