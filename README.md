@@ -51,7 +51,7 @@
 
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=SagarXCode&show_icons=true&bg_color=0d1117&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=SagarXCode&show_icons=true&bg_color=0d1117&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF" width="400" />
 </p>
 
 
