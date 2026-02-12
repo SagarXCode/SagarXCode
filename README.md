@@ -16,12 +16,6 @@
 
 ###
 
-<h2 align="center">🚀 Long-Term Vision</h2>
-
-<p align="center">To establish myself as a versatile App Developer, collaborating with like-minded professionals and contributing to projects that positively impact people’s lives.<br>
-
-
-
 <h2 align="center">Technologies that I use</h2>
 
 ### 
