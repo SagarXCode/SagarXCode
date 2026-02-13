@@ -45,6 +45,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api?username=SagarXCode&show_icons=true&bg_color=0d1117&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&hide=stars" height="100%" />
-  &nbsp &nbsp &nbsp
+  &nbsp &nbsp
   <img src="https://i.postimg.cc/9069MN4W/Find-Share-on-GIPHY.gif" height="200" alt="Night Coding">
 </p>
