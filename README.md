@@ -48,5 +48,3 @@
   &nbsp &nbsp &nbsp
   <img src="https://i.postimg.cc/9069MN4W/Find-Share-on-GIPHY.gif" height="200" alt="Night Coding">
 </p>
-
-##
