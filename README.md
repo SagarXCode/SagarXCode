@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi 👋 I'm Sagar Maurya</h1>
 
-<p align="center">Computer Science student, from Uttar Pradesh, India</p>
+<h3 align="center">Computer Science student, from Uttar Pradesh, India</h3>
 
 ###
 
