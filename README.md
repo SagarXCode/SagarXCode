@@ -34,9 +34,9 @@
 
 ### GitHub Stats
  
-| Contributions | Longest Streak | Pull Requests | Issues |
-| ------------- | -------------- | ------------- | ------ |
-| 680+          | 83 days        | 11            | 4      |
+| Contributions | Longest Streak | Pull Requests |
+| ------------- | -------------- | ------------- |
+| 680+          | 83 days        | 11            |
 
 ##
 
