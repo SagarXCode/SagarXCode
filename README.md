@@ -32,14 +32,6 @@
 
 ##
 
-### GitHub Stats
- 
-| Contributions | Longest Streak | Pull Requests |
-| ------------- | -------------- | ------------- |
-| 680+          | 83 days        | 11            |
-
-##
-
 <details>
 <summary><h3>Blogs</h3></summary>
 
@@ -76,5 +68,12 @@ local AI workspace built for data students.
 > [!IMPORTANT]
 > ### 📝 Blogs
 > - [Data Isn't What Your Textbook Said It Was](https://dev.to/sagarmaurya/data-isnt-what-your-textbook-said-it-was-3df8)
+##
+
+### GitHub Stats
+ 
+| Contributions | Longest Streak | Pull Requests |
+| ------------- | -------------- | ------------- |
+| 680+          | 83 days        | 11            |
 
 -->
