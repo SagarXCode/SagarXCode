@@ -40,39 +40,16 @@
 ---
 
 ### About
-
 4th-year Computer Science student with a focus on data systems and automation.
 I like understanding how technology works at the system level and building tools that make
 repetitive workflows simpler.
 
-Currently interning in Data Analysis and working on DataSense — a browser-based
-local AI workspace built for data students.
-
 ---
 
 ### Projects
-
 > **[DataSense](https://github.com/mauryasagar/DataSense)** — Browser-based local AI workspace for data students
 
-> [!NOTE]
-> ### 📝 Blogs
-> - [Data Isn't What Your Textbook Said It Was](https://dev.to/sagarmaurya/data-isnt-what-your-textbook-said-it-was-3df8)
-
-> [!IMPORTANT]
-> ### 📝 Blogs
-> - [Data Isn't What Your Textbook Said It Was](https://dev.to/sagarmaurya/data-isnt-what-your-textbook-said-it-was-3df8)
-##
-
-### GitHub Stats
- 
-| Contributions | Longest Streak | Pull Requests |
-| ------------- | -------------- | ------------- |
-| 680+          | 83 days        | 11            |
-
-
-##
 ### Tech Stack
-
 **Languages** — <i> Python, SQL, JavaScript </i>  
 **Data** — <i> Pandas, NumPy, Matplotlib </i>  
 **Tools** — <i> Git, GitHub, VS Code </i>
