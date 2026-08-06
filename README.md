@@ -24,14 +24,6 @@
 
 ##
 
-### Tech Stack
-
-**Languages** — <i> Python, SQL, JavaScript </i>  
-**Data** — <i> Pandas, NumPy, Matplotlib </i>  
-**Tools** — <i> Git, GitHub, VS Code </i>
-
-##
-
 <details>
 <summary><h3>Blogs</h3></summary>
 
@@ -77,4 +69,11 @@ local AI workspace built for data students.
 | ------------- | -------------- | ------------- |
 | 680+          | 83 days        | 11            |
 
+
+##
+### Tech Stack
+
+**Languages** — <i> Python, SQL, JavaScript </i>  
+**Data** — <i> Pandas, NumPy, Matplotlib </i>  
+**Tools** — <i> Git, GitHub, VS Code </i>
 -->
