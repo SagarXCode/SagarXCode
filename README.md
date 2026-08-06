@@ -1,6 +1,6 @@
 <h1 align="center">Sagar Maurya</h1>
 
-<p align="center"><b>CS undergraduate &nbsp;•&nbsp; Aspiring Data Analyst &nbsp;•&nbsp; Open Source contributor</b></p>
+<p align="center"><b>CS undergraduate &nbsp;•&nbsp; Aspiring Data Analyst</b></p>
 
 ###
 
