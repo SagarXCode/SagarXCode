@@ -2,11 +2,11 @@
 
 <p align="center"><i>I'm drawn to how things work — from open source contributions to the system level. I build, analyse, automate, and explore across whatever problem interests me most.</i></p>
 
----
+##
 
 <h3 align="left">What I work with</h3>
 
-###
+##
 
 <p align="left"><i>
 
@@ -16,7 +16,7 @@
 
 </i></p>
 
----
+##
 
 <details>
 <summary><h3>Blogs</h3></summary>
