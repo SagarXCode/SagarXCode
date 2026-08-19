@@ -26,26 +26,9 @@
 
 </details>
 
-
 <!-- 
 <img src="https://raw.githubusercontent.com/matfantinel/matfantinel/master/waves.svg" width="100%" height="40"> 
 <img align="right" height="130" src="https://i.postimg.cc/9069MN4W/Find-Share-on-GIPHY.gif"  />
-
----
-<p align="center"><b>CS undergraduate &nbsp;•&nbsp; Aspiring Data Analyst</b></p>
-
-### About
-4th-year Computer Science student with a focus on data systems and automation.
-I like understanding how technology works at the system level and building tools that make
-repetitive workflows simpler.
-
-<p align="center"><i>I'm drawn to how things work — from open source contributions to the system level. I build, analyse, automate, and explore across whatever problem interests me most.</i></p>
-
----
-
-### Projects
-> **[DataSense](https://github.com/mauryasagar/DataSense)** — Browser-based local AI workspace for data students
-
 ### Tech Stack
 **Languages** — <i> Python, SQL, JavaScript </i>  
 **Data** — <i> Pandas, NumPy, Matplotlib </i>  
